@@ -36,10 +36,10 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-#environment doc
-*.env 
-*.env.*
-.aider*
+*.env
 env/
 perplexity/
 .DS_Store
+aider/
+.aider.*
+
